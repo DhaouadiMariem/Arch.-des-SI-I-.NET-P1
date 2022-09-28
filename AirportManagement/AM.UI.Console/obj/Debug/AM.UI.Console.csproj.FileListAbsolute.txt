@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\bin\Debug\AM.UI.Console.exe.config
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\bin\Debug\AM.UI.Console.exe
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\bin\Debug\AM.UI.Console.pdb
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\obj\Debug\AM.UI.Console.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\obj\Debug\AM.UI.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\obj\Debug\AM.UI.Console.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\obj\Debug\AM.UI.Console.exe
+C:\Users\MSI\source\repos\AirportManagement\AM.UI.Console\obj\Debug\AM.UI.Console.pdb
